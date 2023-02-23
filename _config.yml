@@ -14,39 +14,37 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/Athens
+
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: S.Kokotos Website                        
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: A powerful website for my showcase   
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+description: >-                        
+  A minimal, responsive, and powerful website about myself.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'greekforce1821.github.io/kokotos.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: Greekforce1821             
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Spyridon Kokotos  
+
+linkedin:
+  username: Spyridon Kokotos          
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: Spyridon Eftychios Kokotos
+  email: spiroskoeu@gmail.com          
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/SpyridonKokotos    
+    - https://github.com/Greekforce1821      
+    - https://www.linkedin.com/in/spyridon-kokotos
 
 google_site_verification:               # fill in to your verification string
 
@@ -78,10 +76,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/1626262838544150528/4XVst6KW_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
