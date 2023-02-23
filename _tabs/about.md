@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+title: About
+icon: fas fa-info
 order: 4
 ---
+## Spyridon Eftychios Kokotos 
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+### Undergraduate Student @ Ionian UNiversity 
+>> February 24, 2023
+
