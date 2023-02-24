@@ -5,6 +5,6 @@ order: 4
 ---
 ## Spyridon Eftychios Kokotos 
 
-### Undergraduate Student @ Ionian UNiversity 
+### Undergraduate Student @ Ionian University 
 >> February 24, 2023
 
